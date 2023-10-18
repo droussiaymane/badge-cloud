@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/backend.iml" filepath="$PROJECT_DIR$/.idea/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/digital-wallet-service/digital-wallet-service.iml" filepath="$PROJECT_DIR$/digital-wallet-service/digital-wallet-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/email/email.iml" filepath="$PROJECT_DIR$/email/email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-service/eureka-service.iml" filepath="$PROJECT_DIR$/eureka-service/eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-service/gateway-server.iml" filepath="$PROJECT_DIR$/gateway-service/gateway-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keycloak-interface-service/keycloak-interface-service.iml" filepath="$PROJECT_DIR$/keycloak-interface-service/keycloak-interface-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/program-service/program-service.iml" filepath="$PROJECT_DIR$/program-service/program-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/velocity-service/velocity-service.iml" filepath="$PROJECT_DIR$/velocity-service/velocity-service.iml" />
+    </modules>
+  </component>
+</project>

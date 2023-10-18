@@ -1,0 +1,131 @@
+/* -------
+ top bar 
+ --------- */
+ .custom-nav-user{
+   padding: calc(31px * .5) 4px calc(31px * .5) 57px!important;
+}
+
+/* --------------
+ data tables 
+ ---------------- */
+table.dataTable > thead .action-datatable.sorting:before, 
+table.dataTable > thead .action-datatable.sorting:after, 
+table.dataTable > thead .action-datatable.sorting_asc:before, 
+table.dataTable > thead .action-datatable.sorting_asc:after, 
+table.dataTable > thead .action-datatable.sorting_desc:before, 
+table.dataTable > thead .action-datatable.sorting_desc:after, 
+table.dataTable > thead .action-datatable.sorting_asc_disabled:before, 
+table.dataTable > thead .action-datatable.sorting_asc_disabled:after, 
+table.dataTable > thead .action-datatable.sorting_desc_disabled:before, 
+table.dataTable > thead .action-datatable.sorting_desc_disabled:after {
+   position: absolute;
+   bottom: 0.5em;
+   display: block;
+   opacity: 0;
+}
+table.dataTable tbody td.focus, table.dataTable tbody th.focus {
+   outline: none!important;
+}
+
+
+/* ----------
+ User manager 
+ ------------ */
+.tower-file .tower-file-details .tower-input-preview-container {
+   width: 200px;
+}
+
+/* --------------------
+ Badge template manager 
+ ---------------------- */
+.badge-collection-image{
+   width: 50px;
+}
+
+/* ------------------
+Assign badge preview 
+---------------------*/
+.assign-badge-input{
+   margin-top: 10px;
+}
+.assign-badge-preview{
+   width: 35px;
+}
+
+
+/* ------------
+ weather app
+ --------------*/
+#ww_a1deb85eb85e2{
+   max-width: 100%!important;
+   padding: 49px 19px!important;
+   font-family: Nunito,sans-serif!important;
+   font-size: 20px!important;
+   border-radius: 0.25rem!important;
+}
+#ww_a1deb85eb85e2 .ww_current{
+   display: block!important;
+   justify-content: center!important;
+}
+#ww_a1deb85eb85e2 .ww_temp, #ww_a1deb85eb85e2 .ww_icon, #ww_a1deb85eb85e2 .ww_cond {
+   display: block!important;
+}
+#ww_a1deb85eb85e2 .ww_temp {
+   font-size: 60px!important;
+   height: 65px!important;
+}
+#ww_a1deb85eb85e2 .ww_name, #ww_a1deb85eb85e2 .ww_delimiter {
+   margin-bottom: 30px!important;
+}
+#ww_a1deb85eb85e2 .ww_name {
+   font-weight: 500!important;
+   font-size: 25px!important;
+}
+#ww_a1deb85eb85e2 .ww_icon svg {
+   height: 70px!important;
+   width: 70px!important;
+}
+#ww_a1deb85eb85e2 .ww_source svg {
+   display: none;
+}
+
+
+/* -------------
+ media queries 
+ -------------- */
+/* @media (max-width: 575px){
+   .navbar-custom {
+      right: 0
+  }
+} */
+
+@media (max-width: 991.98px){
+   /*weather app*/
+   #ww_a1deb85eb85e2{
+      padding: 77px 0!important;
+      font-size: 16px!important;
+   }
+   #ww_a1deb85eb85e2 .ww_temp {
+      font-size: 40px!important;
+      height: 45px!important;
+   }
+   #ww_a1deb85eb85e2 .ww_name, #ww_a1deb85eb85e2 .ww_delimiter {
+      margin-bottom: 12px!important;
+   }
+   #ww_a1deb85eb85e2 .ww_name {
+      font-size: 18px!important;
+   }
+}
+
+@media (max-width: 767.98px){
+
+   .page-title-box .page-title-right {
+      display: block;
+   }   
+
+   /*weather app*/
+   #ww_a1deb85eb85e2{
+      padding:15px 0!important;
+      font-size: 16px!important;
+   }
+}

@@ -1,0 +1,32 @@
+
+p
+java:S1192H"SDefine a constant instead of duplicating this literal "            </td>
+" 9 times.(ıÁÚõ8îÓ‘Ü“1
+p
+java:S1192B"NDefine a constant instead of duplicating this literal "        <tr>
+" 7 times.(‡ô€…øÿÿÿÿ8îÓ‘Ü“1
+Ô
+java:S1192K"±Define a constant instead of duplicating this literal "            <td colspan=\"4\" style=\"width: 467.5pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 5.4pt;vertical-align: top;\">
+" 3 times.(„ºÛØÿÿÿÿÿ8îÓ‘Ü“1
+q
+java:S1192I"ODefine a constant instead of duplicating this literal "        </tr>
+" 7 times.(úÒ¶ÿÿÿÿÿ8îÓ‘Ü“1
+
+java:S1192}"rDefine a constant instead of duplicating this literal "            <td style=\"border:none;\"><br></td>
+" 4 times.(ğêÃ8îÓ‘Ü“1
+~
+java:S1488ğ"[Immediately return this expression instead of assigning it to the temporary variable "img".(’­€•ıÿÿÿÿ8ïÓ‘Ü“1
+Z
+java:S1854:"8Remove this useless assignment to local variable "file".(¾™­œÿÿÿÿÿ8ùÓ‘Ü“1
+]
+java:S18548";Remove this useless assignment to local variable "message".(ÆÛš•ıÿÿÿÿ8ùÓ‘Ü“1
+X	java:S1252"<This block of commented-out lines of code should be removed.(İƒ“ 8úÓ‘Ü“1
+>
+java:S11167"Remove this empty statement.(Í‚ „şÿÿÿÿ8ûÓ‘Ü“1
+N
+java:S14818",Remove this unused "message" local variable.(ÆÛš•ıÿÿÿÿ8ûÓ‘Ü“1
+K
+java:S1481:")Remove this unused "file" local variable.(¾™­œÿÿÿÿÿ8üÓ‘Ü“1
+|
+java:S2142è"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ò¶È8…Ô‘Ü“1
+[	java:S106ê"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8…Ô‘Ü“1

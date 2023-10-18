@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/digital-wallet-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/email" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eureka-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gateway-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/keycloak-interface-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/program-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scheduler" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/velocity-service" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,22 @@
+/* -----------
+Register 
+-------------*/
+.navbar-toggler:focus{
+   outline: none;
+   box-shadow: none;
+}
+.headline:after, .headline:before {
+   background-color: #dee2e6;
+   content: "";
+   flex-grow: 1;
+   height: 1px;
+}
+.btn-social:hover,
+.btn-social:focus{
+   background-color: transparent;
+   box-shadow: none;
+}
+
+.input-value:focus{
+   border: 1px solid #dee2e6!important;
+}

@@ -1,0 +1,113 @@
+
+f
+java:S1192ø"HDefine a constant instead of duplicating this literal "Success" 6 times.(…‘×à8ÚÙ¹Û“1
+–
+java:S1192é"yDefine a constant instead of duplicating this literal "Error please try again later or Contact Administrator!!!" 3 times.(—ÅÃ8ÚÙ¹Û“1
+k
+java:S1192œ"HDefine a constant instead of duplicating this literal "SUCCESS" 5 times.(ÏÂñıÿÿÿÿ8ÚÙ¹Û“1
+l
+java:S1192º"NDefine a constant instead of duplicating this literal "Invalid Badge" 4 times.(ÿ…á8ÚÙ¹Û“1
+K
+java:S5411ğ"(Use a primitive boolean expression here.(ã–ûÿÿÿÿ8İÙ¹Û“1
+K
+java:S5411õ"(Use a primitive boolean expression here.(ú×ŠÔüÿÿÿÿ8İÙ¹Û“1
+K
+java:S5411‚"(Use a primitive boolean expression here.(²Ğúışÿÿÿÿ8ÖŒÜ“1
+P
+java:S1199Ç"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8ßÙ¹Û“1
+c
+java:S2259´"FA "NullPointerException" could be thrown; "getBody()" can return null.(¨©à38§Ü¹Û“1
+i
+java:S2259Ï"FA "NullPointerException" could be thrown; "getBody()" can return null.(şÃ¬¥üÿÿÿÿ8§Ü¹Û“1
+i
+java:S2259·"FA "NullPointerException" could be thrown; "getBody()" can return null.(Ÿå¶›üÿÿÿÿ8¨Ü¹Û“1
+i
+java:S2259²"FA "NullPointerException" could be thrown; "getBody()" can return null.(şÃ¬¥üÿÿÿÿ8§Ü¹Û“1
+d
+java:S2259ˆ"FA "NullPointerException" could be thrown; "getBody()" can return null.(ØÈÎŸ8§Ü¹Û“1
+d
+java:S2259Ñ"FA "NullPointerException" could be thrown; "getBody()" can return null.(Ô Ú8¨Ü¹Û“1
+i
+java:S2259á"FA "NullPointerException" could be thrown; "getBody()" can return null.(Ä¶»ğøÿÿÿÿ8¥ØŒÜ“1
+d
+java:S2259¡"FA "NullPointerException" could be thrown; "getBody()" can return null.(áòÎÓ8§Ü¹Û“1
+c
+java:S2259˜"EA "NullPointerException" could be thrown; "userDTO" is nullable here.(†‘ÒË8§Ü¹Û“1
+i
+java:S2259†"FA "NullPointerException" could be thrown; "getBody()" can return null.(Ä¶»ğøÿÿÿÿ8§Ü¹Û“1
+d
+java:S2259´"FA "NullPointerException" could be thrown; "getBody()" can return null.(Ô Ú8¨Ü¹Û“1
+d
+java:S2259“"FA "NullPointerException" could be thrown; "getBody()" can return null.(Ç›é±8¥ØŒÜ“1
+d
+java:S2259¨"FA "NullPointerException" could be thrown; "getBody()" can return null.(ØÈÎŸ8¤ØŒÜ“1
+f
+java:S2259š"HA "NullPointerException" could be thrown; "issuerUser" is nullable here.(Éğµâ8¤ØŒÜ“1
+i
+java:S2259Ÿ"FA "NullPointerException" could be thrown; "getBody()" can return null.(ÒÑŒèøÿÿÿÿ8§Ü¹Û“1
+d
+java:S2259í"FA "NullPointerException" could be thrown; "getBody()" can return null.(Ç›é±8§Ü¹Û“1
+d
+java:S2259ë"FA "NullPointerException" could be thrown; "getBody()" can return null.(ĞÜª†8¤ØŒÜ“1
+k
+java:S2259ó"HA "NullPointerException" could be thrown; "issuerUser" is nullable here.(…¢ÒÛÿÿÿÿÿ8§Ü¹Û“1
+d
+java:S2259ã"FA "NullPointerException" could be thrown; "getBody()" can return null.(ØÈÎŸ8§Ü¹Û“1
+d
+java:S2259‘"FA "NullPointerException" could be thrown; "getBody()" can return null.(ĞÜª†8¨Ü¹Û“1
+c
+java:S2259ñ"EA "NullPointerException" could be thrown; "userDTO" is nullable here.(†‘ÒË8¤ØŒÜ“1
+k
+java:S3655Ü"HCall "user.isPresent()" or "!user.isEmpty()" before accessing the value.(¬±–èûÿÿÿÿ8¨Ü¹Û“1
+f
+java:S3655»"HCall "user.isPresent()" or "!user.isEmpty()" before accessing the value.(á¿¾”8¨Ü¹Û“1
+o
+java:S3776s"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(âÛ™å8¬Ü¹Û“1
+a
+java:S1155…">Use isEmpty() to check whether the collection is empty or not.( ß€Áÿÿÿÿÿ8­Ü¹Û“1
+\
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(Œ—ˆ8®Ü¹Û“1
+a
+java:S1155›">Use isEmpty() to check whether the collection is empty or not.(ÇùÔ²ûÿÿÿÿ8®Ü¹Û“1
+\
+java:S1155¦">Use isEmpty() to check whether the collection is empty or not.(öëÀ8¯Ü¹Û“1
+p
+java:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 88 to the 15 allowed.(¤ßø8°Ü¹Û“1
+^	java:S125õ"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8¸Ü¹Û“1
+Y	java:S125Î"<This block of commented-out lines of code should be removed.(ñ±™Œ8ÄÜ¹Û“1
+p
+java:S3776ç"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Û€©8ÍØŒÜ“1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(šÆßëşÿÿÿÿ8ÙÜ¹Û“1
+Y	java:S125¡"<This block of commented-out lines of code should be removed.(«ê¿È8û ºÛ“1
+_
+java:S1854Ô"<Remove this useless assignment to local variable "response".(ÆÓáûÿÿÿÿ8ÖÜ¹Û“1
+P
+java:S1481Ô"-Remove this unused "response" local variable.(ÆÓáûÿÿÿÿ8ÖÜ¹Û“1
+[	java:S106’"9Replace this use of System.out or System.err by a logger.(ÛÈñìşÿÿÿÿ8àÜ¹Û“1
+u
+java:S6204¯"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ÊŠõïşÿÿÿÿ8ÛÜ¹Û“1
+u
+java:S6204Í"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ÊŠõïşÿÿÿÿ8İÜ¹Û“1
+K
+java:S1125Ù"(Remove the unnecessary boolean literals.(àÏïõüÿÿÿÿ8ŞÜ¹Û“1
+[	java:S106è"9Replace this use of System.out or System.err by a logger.(šÆßëşÿÿÿÿ8ŞØŒÜ“1
+u
+java:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(–Ì”üÿÿÿÿ8âÜ¹Û“1
+P
+java:S1172œ"-Remove this unused method parameter "userId".(–Ì”üÿÿÿÿ8ãÜ¹Û“1
+a
+java:S1155«">Use isEmpty() to check whether the collection is empty or not.( ß€Áÿÿÿÿÿ8ãÜ¹Û“1
+\
+java:S1155¶">Use isEmpty() to check whether the collection is empty or not.(Œ—ˆ8äÜ¹Û“1
+a
+java:S1155Á">Use isEmpty() to check whether the collection is empty or not.(ÇùÔ²ûÿÿÿÿ8äÜ¹Û“1
+\
+java:S1155Ì">Use isEmpty() to check whether the collection is empty or not.(öëÀ8åÜ¹Û“1
+a
+java:S1155Ú">Use isEmpty() to check whether the collection is empty or not.(çÉóÇüÿÿÿÿ8æÜ¹Û“1
+`
+java:S10685">Remove this unused "programStatisticRepository" private field.(ºÇ½Óùÿÿÿÿ8çÜ¹Û“1
+j
+java:S10687"HRemove this unused "programStatisticInstructorRepository" private field.(¯¦êãıÿÿÿÿ8çÜ¹Û“1
+R
+java:S1068O"0Remove this unused "objectMapper" private field.(“»‚Šûÿÿÿÿ8çÜ¹Û“1

@@ -1,0 +1,64 @@
+/*header*/
+header{
+	position: relative;
+	background-color: #ffffff;
+	box-shadow: var(--box-shadow);
+	z-index: 1000;
+}
+.nav-logo img{
+	max-width: 80%;
+}
+.navbar-toggler:focus {
+	box-shadow: none;
+}
+
+
+/*badge holder info*/
+.badge-holder{
+	padding: 1.3rem 0;
+}
+.badge-holder-info img{
+	width: 5rem;
+	height: 5rem;
+	border-radius: 50%;
+	margin: 0 2rem 0 0;
+}
+.badge-holder-info p{
+	margin-bottom: 0;
+}
+.btn-custom-verify{
+	padding: 0.6rem 1.5rem;
+}
+
+/*badge info*/
+.badge-info{
+	padding: 3rem 0;
+}
+.badge-info img{
+	width: 100%;
+	margin-bottom: 2rem;
+}
+.badge-info h1, .badge-info h2{
+	font-family: 'Alegreya', serif;
+	font-size: 2.5rem;
+	font-weight: 600;
+}
+.badge-info h2{
+	font-size: 2rem;
+}
+.contents{
+	padding: 1rem 0 2rem;
+}
+.contents:last-child{
+	padding-bottom: 0;
+}
+.contents h5{
+	margin-bottom: 1rem;
+	font-size: 1rem;
+	font-weight: 600;
+}
+
+footer{
+	padding: 2rem 0;
+	border-top: 1px solid #d8d8d8;
+}

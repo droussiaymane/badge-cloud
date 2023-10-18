@@ -1,0 +1,25 @@
+
+l
+java:S1192‰"PDefine a constant instead of duplicating this literal " : studentId = " 3 times.(¿¿À¾øÿÿÿÿ
+m
+java:S1192‰"QDefine a constant instead of duplicating this literal " :  programId = " 3 times.(¿¿À¾øÿÿÿÿ
+X
+java:S1854i"=Remove this useless assignment to local variable "formatter".(ýÌæ¶øÿÿÿÿ
+I
+java:S1481i".Remove this unused "formatter" local variable.(ýÌæ¶øÿÿÿÿ
+R
+java:S1854œ";Remove this useless assignment to local variable "baseUrl".(ÉÝË…
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(¿¿À¾øÿÿÿÿ
+C
+java:S1481œ",Remove this unused "baseUrl" local variable.(ÉÝË…
+W	java:S125¤"<This block of commented-out lines of code should be removed.(ªŸËõþÿÿÿÿ
+O	java:S106¶"9Replace this use of System.out or System.err by a logger.(´Ôæª
+X
+java:S1854€"<Remove this useless assignment to local variable "response".(ÅÍ¼äøÿÿÿÿ
+O	java:S106æ"9Replace this use of System.out or System.err by a logger.(´Ôæª
+I
+java:S1481€"-Remove this unused "response" local variable.(ÅÍ¼äøÿÿÿÿ
+Q
+java:S1068'"<Remove this unused "studentProgramRepository" private field.(ÞÉý
+T
+java:S10681"9Remove this unused "velocityBadgesService" private field.(Ã„Ýäþÿÿÿÿ
